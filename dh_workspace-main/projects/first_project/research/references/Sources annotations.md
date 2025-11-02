@@ -3,19 +3,19 @@
 ## *List:*
 
 ### #1
-- Title: 中外关系视野下的黄泛区国际赈灾合作（1938—1945）_孙小蕾
+- Title: 中外关系视野下的黄泛区国际赈灾合作（1938—1945）__ 孙小蕾
 - Annotating: "1938 年 6 月 30 日,上海华洋义赈会会长宋汉章、饶家驹(R.Jaequitnot)电询行政院黄泛区灾情。振 济委员会委员长朱庆澜回复,“洪水现已遍及郑县、中牟、开封、尉氏、扶沟、洧川、鄢陵、西华、淮阳、太康 等 10 县,仅中牟 1 县难民已 10 余万,麋集平汉沿线,正在设法收容”。随后,朱庆澜委托华洋义赈会凭借 国际性质,“推友邦人士,携带赈款于国民政府不能之处,设法堵振”。"
 - Note: 关于黄泛区影响区域有效记载
 
 ### #2
-- Title: Until the Harvest Is Reaped_Theodore Harold White/白修德
+- Title: Until the Harvest Is Reaped__Theodore Harold White/白修德
 - Annotating: “Nobody knows or cares how many refugees die on this road. They say two million people have moved out along this route since fall, by now probably 10,000 a day are drifting along westward. Of Honan’s 34 millions we estimated that there have been three million refugees. In addition, five million will have died by the time the new harvest is gathered.”
 - Note: Primary Sources, 描述了难民移动方向
 
 ### #3
-- Title: 
-- Annotating: 
-- Note: 
+- Title: Foreign News: THE DESPERATE URGENCY OF FLIGHT__Theodore Harold White/白修德
+- Annotating: “From the 20,000-sq.-mile blighted area, refugees are streaming in hundreds of thousands along two main routes: the Lunghai railway and the trail of the old Peking-Hankow railway. The Government has placed a free train daily for refugee disposal along the Lunghai railway, which is carrying out 1,500 people every 24 hours. But the jammed cars, stuffed with clinging, clambering people, are evacuating only a portion of the stricken hordes. Four or five thousand people daily are setting out on the westward march along the line.”
+- Note: 同上，记录了难民移动方向
 
 ### #4
 - Title: 白修德与1942-1943年河南大灾荒研究_马健辉
